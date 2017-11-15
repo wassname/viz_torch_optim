@@ -6,6 +6,9 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 ![](docs/videos/beales.gif)
 
+![](docs/videos/six_humped_camel_back_20171115_09-38-57.gif)
+![](docs/videos/rosenbrock_20171115_09-47-52.gif)
+
 # Usage:
 
 - `git clone https://github.com/wassname/viz_torch_optim`
