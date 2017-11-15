@@ -8,7 +8,7 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 # Usage:
 
-- `git clone https://github.com/wassname/visualizing_torch_optim`
+- `git clone https://github.com/wassname/viz_torch_optim`
 - `jupyter notebook`
 - open main.ipynb
 - install any missing dependencies with pip
