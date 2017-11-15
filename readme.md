@@ -6,11 +6,6 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 ![](docs/videos/beales.gif)
 
-<video controls autoplay>
-  <source type="video/webm" src="docs/videos/beales_20171115_07-18-03_loss.webm">
-  Your browser does not support the video tag.
-</video>
-
 # Usage:
 
 - `git clone https://github.com/wassname/viz_torch_optim`
