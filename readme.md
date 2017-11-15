@@ -8,7 +8,14 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 ![](docs/videos/six_humped_camel_back_20171115_09-38-57.gif)
 ![](docs/videos/six_humped_camel_back_20171115_09-38-57_3d.gif)
+![](docs/videos/six_humped_camel_back_20171115_09-38-57_loss.gif)
+
+![](docs/videos/madsen_20171115_10-04-15_3d.gif)
+![](docs/videos/madsen_20171115_10-04-15_loss.gif)
+
 ![](docs/videos/rosenbrock_20171115_09-47-52.gif)
+
+![](docs/videos/beales_20171115_07-18-03_3d.gif) 
 
 
 # Usage:
