@@ -4,11 +4,14 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 # Examples
 
-Please note that these don't have the same learning rate as simple optimizers perform better on low dimensional problems. So with a constant learning rate SGD gets to the minima too fast to see while Adam crawls along. So I used differen't learning rate per optimizer to show them in the same video.
+Please note each optimizer has a differen't learning rate. This is because simpler optimizers perform better on low dimensional problems. So, with a constant learning rate, the simpler SGD optimizer races while Adam crawls along. In that case we would be able to see SGD's path or Adam's movement. So I used differen't learning rates for each optimizer in order to show them on the same video.
 
 ## With cyclic annealing:
 
 ![](docs/videos/beales_CyclicLR_20171117_04-01-14_2d.gif)
+![](docs/videos/beales_CyclicLR_20171117_04-51-12_loss.gif)
+![](docs/videos/beales_CyclicLR_20171117_04-51-12_3d.gif)
+
 
 ## Constant learning rate
 
