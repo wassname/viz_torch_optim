@@ -10,30 +10,20 @@ Please note each optimizer has a differen't learning rate. This is because simpl
 
 ![](docs/videos/beales_CyclicLR_20171117_04-01-14_2d.gif)
 ![](docs/videos/beales_CyclicLR_20171117_04-51-12_loss.gif)
-![](docs/videos/beales_CyclicLR_20171117_04-51-12_3d.gif)
 
 
 ## Constant learning rate
 
 ### Beales function
 ![](docs/videos/beales_20171117_00-02-20_2d.gif)
-![](docs/videos/beales_20171115_07-18-03_3d.gif)
 
 ### Six humped camel function
 ![](docs/videos/six_humped_camel_back_20171115_09-38-57.gif)
 ![](docs/videos/six_humped_camel_back_20171115_09-38-57_3d.gif)
-![](docs/videos/six_humped_camel_back_20171115_09-38-57_loss.gif)
-
-### Madsen function
-
-![](docs/videos/madsen_20171115_10-04-15_3d.gif)
-![](docs/videos/madsen_20171115_10-04-15_loss.gif)
 
 ### Rosenbrock function
 
 ![](docs/videos/rosenbrock_20171115_09-47-52.gif)
-
-
 
 # Usage:
 
