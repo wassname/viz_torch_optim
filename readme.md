@@ -9,7 +9,7 @@ Please note that each optimizer has a differen't learning rate, so they are not 
 ## With cyclic annealing:
 
 ![](docs/videos/beales_CyclicLR_20171117_04-51-12_2d.gif)
-![](docs/videos/beales_CyclicLR_20171117_04-51-12_loss.gif)
+<!-- ![](docs/videos/beales_CyclicLR_20171117_04-51-12_loss.gif) -->
 
 ## Constant learning rate
 
