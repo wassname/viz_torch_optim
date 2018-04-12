@@ -30,3 +30,4 @@ Please note that each optimizer has a differen't learning rate, so they are not 
 - `jupyter notebook`
 - open main.ipynb
 - install any missing dependencies with pip
+- Run and wait, because rendering video is quite slow
