@@ -4,7 +4,7 @@ This project generates animations of pytorch optimizers solving toy problems. Ex
 
 # Examples
 
-Please note that each optimizer has a differen't learning rate, so they are not directly comparable. This is because simpler optimizers perform better on low dimensional problems. So, with a constant learning rate, the simpler SGD optimizer races to the finish while Adam crawls along. In this case we SGD is to fast to see and Adam is too bording to watch. So I used differen't learning rates for each optimizer so I could show them on the same video.
+Please note that each optimizer has a differen't learning rate, so they are not directly comparable. This is because simpler optimizers perform better on low dimensional problems and are often given a smaller learning rate. With the same learning rate, the simpler SGD optimizer races to the finish while Adam crawls along. In that case SGD is too fast to see and Adam is too boring to watch. For visualisation purposes I used differen't learning rates for each optimizer to make them move at similar speeds in the video.
 
 
 ## Beales function
